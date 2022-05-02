@@ -1,6 +1,6 @@
 title: 김예준의 블로그
 description: 안녕하세요, 한동대학교에 재학중인 김예준입니다.
-show_downloads: true
+
 google_analytics:
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
